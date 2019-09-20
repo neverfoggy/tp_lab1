@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91dae75b-8de3-4bb7-b36d-735efe6c9a3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab1_task4/lab1_task4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/dataSources/666a9e9e-dd48-4e11-8ccf-309952023349.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/dataSources/666a9e9e-dd48-4e11-8ccf-309952023349.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/actionfactory/ActionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/actionfactory/ActionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToButtonCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToWelcomeCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToWelcomeCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/ConnectorDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/ConnectorDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/buttonPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/controller/FormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/controller/FormController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/controller/FormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/controller/FormController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/controller/CORSFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/controller/CORSFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/controller/FormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/controller/FormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/jdbc/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/jdbc/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/electricity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/EmailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Initializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/automation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/bulb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ekstra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/electnet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/lighting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_dolya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_kolyadichi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/mail-outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/open-mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/plastic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ventil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ventilation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/wiresphoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/automation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/bulb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ekstra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/electnet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/lighting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_dolya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_kolyadichi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_1110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_1135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/plastic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ventil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ventilation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/wiresphoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/css/bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/formPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/formpagemain.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elmatic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elmatic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elmatic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elmatic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-starter" beforeDir="false" afterPath="$PROJECT_DIR$/../webpack-starter" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/vashchylau/lr/Hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/vashchylau/lr/Hello.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1630" />
+    <option name="height" value="1715" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab1_tp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1_tp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1_tp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1_tp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1_tp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1_tp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568964263154" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.by.bsuir.vashchylau.lr.Hello" />
+      <module name="lab1_tp" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91dae75b-8de3-4bb7-b36d-735efe6c9a3a" name="Default Changelist" comment="" />
+      <created>1568963648864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568963648864</updated>
+      <workItem from="1568963661103" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/vashchylau/lr/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
